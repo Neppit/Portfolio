@@ -16,7 +16,7 @@ Provided as a link here - https://neppit.github.io/Portfolio/
 
 ## Usage
 
-To use the webpage, you can review each section by clicking on the header links at the top of the page. To inspect each element, you can open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you can navigate to the Accessibility tab to highlight each picture element,
+To view this webpage, you can click on the links at the top of the header to navigate to the different sections. You can click on the images of the previous work to navigate to the deployed webpages. You can click on the links at the bottom of the page to contact the Portfolio's owner.
 
 ## Credits
 
